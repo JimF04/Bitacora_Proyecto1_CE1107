@@ -2,5 +2,7 @@
 Proyecto 1 CE1107 Fundamentos de Arquitectura de Computadores
 
 Integrantes:
-Feng Feng Jimmy
+
+Feng Feng Jimmy 
+
 Campos Salazar Jose Eduardo
